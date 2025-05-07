@@ -32,7 +32,7 @@ Este projeto demonstra dois tipos de formulários de cadastro criados com **Reac
 
 ### ⚠️ `BadForm` (validação manual)
 
-- Validações feitas "na mão" com `useState`
+- Validações com `useState`
 - Demonstra a complexidade e risco de erros ao comparar com o `GoodForm`
 
 ---
